@@ -1,0 +1,17 @@
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+   body{
+       width: auto;
+   }
+.uppar h1{
+    font-size: 3rem;
+    font-weight: 100;
+    text-align: center;
+}
+.uppar{
+    width: 40rem;
+}
+.design-part{
+    height: 90vh;
+    overflow: hidden;
+}
+}
